@@ -1,5 +1,7 @@
 # Covid19-Temperature-Detection-Data-Collection-Microbit
 
+https://sites.google.com/colaistephadraig.com/
+csproject2021lc
 
 # Intro
 The year 2020  was an extremely momentous year . It has brought substantial changes and will have a long lasting effect , positive and negative ,on the future . One of the major conveyers of this great change was the outbreak of the coronavirus .  
