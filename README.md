@@ -1,6 +1,5 @@
 # Covid19-Temperature-Detection-Data-Collection-Microbit
-
-
+KLKKKMKMK
 The year 2020  was an extremely momentous year . It has brought substantial changes and will have a long lasting effect , positive and negative ,on the future . One of the major conveyers of this great change was the outbreak of the coronavirus .  
 
 One of the aspects I was extremely curious about were the symptoms of the COVID. I had a strong urge to explore ways that schools or universities can systematically monitor an individuals health through out the day and detect for any signs that may manifest that the individual has contracted COVID. 
